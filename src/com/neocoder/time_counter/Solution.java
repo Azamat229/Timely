@@ -23,6 +23,7 @@ public class Solution {
 
         String tmp = "tes";
 
+
         while (!Objects.equals(tmp, "EXIT")) {
             tmp = scanner.nextLine();
             if(!Objects.equals(tmp, "")){
